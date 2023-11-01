@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    font-family: cursive;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 15px;
+    color: #fff;
+}
+
+h3 {
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    color: #fff;
+}
+
+select {
+    width: 200px;
+    height: 32px;
+    font-size: 20px;
+    border: 2px solid #fff;
+}
+
+.olchami {
+    display: flex;
+    margin-top: 10px;
+}
+
+.olchami__1 {
+    border: 2px solid #fff;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    color: #fff;
+    padding-top: -5px;
+}
+
+.olchami__1 p {
+    margin-top: 25px;
+
+}
+
+.olchami__2 {
+    border: 2px solid #fff;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: -10px;
+    color: #fff;
+}
+
+.olchami__2 p {
+    margin-top: 35px;
+}
+
+.olchami__3 {
+    border: 2px solid #fff;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: -20px;
+    color: #fff;
+    padding-top: 5px;
+}
+
+.olchami__3 p {
+    margin-top: 40px;
+}
+
+.ustiga input {
+    width: 24px;
+    height: 24px;
+    margin-top: -5px;
+}
+
+.ustiga__span {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pp {
+    margin-right: 60px;
+}
+
+
+.pp1 {
+    margin-right: 108px;
+}
+
+.pp3 {
+    margin-right: 116px;
+}
+
+.ustiga__span p {
+    padding-left: 10px;
+    color: #fff;
+    font-family: cursive;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: -7px;
+}
+
+.qoshimcha {
+    display: flex;
+}
+
+.qoshimcha span {
+    display: flex;
+}
+
+.qoshimcha input {
+    width: 24px;
+    height: 24px;
+    margin-top: -5px;
+    margin-right: 10px;
+}
+
+.Qoshimchalar__checc {
+    margin-right: 127px;
+    margin-top: 10px;
+}
+
+.Qoshimchalar__check {
+    margin-top: 10px;
+}
+
+.Pitsa {
+    display: flex;
+}
+
+.right {
+    width: 500px;
+    height: 550px;
+    margin-left: 160px;
+    border-left: 2px solid #fff;
+    padding-left: 150px;
+}
+
+.right ul li {
+    margin-bottom: 50px;
+}
+
+.right a {
+    padding: 15px 30px;
+    background-color: #fff;
+    color: #fff;
+    border-radius: 5px;
+    font-family: cursive;
+    font-size: 18px;
+}
+
+.backgroung {
+    background-image: url(https://westhillspizza.com/wp-content/uploads/2017/12/slider1-pizza-wood4.jpg);
+    width: 100%;
+    height: 651px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bot {
+    border-radius: 8px;
+}
+
+.qutor:hover {
+    box-shadow: 0px 0px 50px orangered;
+}
